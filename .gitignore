@@ -1,0 +1,13 @@
+runs/output/*
+runs/SO_DET_V1/*
+temp
+src/outline_detection.py
+data_/*
+
+# PyCharm
+.idea/
+*.iml
+
+# PyCharm misc
+.pytest_cache/
+__pycache__/
